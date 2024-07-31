@@ -5,6 +5,7 @@ historical ranking data. By doing so, we aim to assist colleges and universities
 enhancing their performance in various NIRF ranking parameters.
 
 It is carried out in following steps:-
+
 • Data Preprocessing and data cleaning
 • Transforming raw data into features that can be used to create predictive models
 • Exploratory Data Analysis
